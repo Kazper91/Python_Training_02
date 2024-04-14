@@ -1,2 +1,2 @@
 # Python_Training_02
-Pyhton training in TeachMeSkills school
+Python training in TeachMeSkills school
